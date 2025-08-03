@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kelvinmaina01.png" width="150" height="150" style="border-radius:50%;" alt="Kelvin Gichinga" />
+  <img src="https://github.com/kelvinmaina01.png" width="150" height="150"  style="border-radius:50%;" alt="Kelvin Gichinga" />
 </p>
 <h1 align="center">👋 Hi, I'm Kelvin Gichinga</h1>
 
