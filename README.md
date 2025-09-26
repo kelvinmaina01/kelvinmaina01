@@ -1,4 +1,4 @@
-```md
+md
 <p align="center">
   <img src="https://github.com/kelvinmaina01.png" width="150" height="150" style="border-radius:50%;" alt="Kelvin Gichinga" />
 </p>
@@ -103,4 +103,4 @@
 ---
 
 > _“Science meets code. Data meets life. I build tools that decode disease.”_
-```
+
