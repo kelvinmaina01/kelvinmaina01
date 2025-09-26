@@ -55,7 +55,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" 
+     width="40%" 
+     style="border-radius: 50%; overflow: hidden;" />
+
 </p>
 
 ---
