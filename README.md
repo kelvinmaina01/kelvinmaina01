@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://github.com/kelvinmaina01.png" width="150" height="150" style="border-radius:50%;" alt="Kelvin Gichinga" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38B2AC&center=true&vCenter=true&lines=Bioinformatician;Cancer+Researcher;AI+%26+ML+Enthusiast;Web+Developer;Drug+Discovery+Explorer;Data+Science+Innovator" alt="Typing Animation" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Kelvin Gichinga</h1>
 
