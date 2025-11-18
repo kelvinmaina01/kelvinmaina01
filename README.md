@@ -6,6 +6,7 @@
 🎓 BSc. Bioinformatics, Computational Biology & Molecular Biology | JKUAT <br/>
 🔬 Cancer Biology • 🧬 Bioinformatics • 💡 AI in Precision Medicine <br/>
 💻 Python • Web Development • Drug Discovery Enthusiast • Data Science
+  React js developer, python django developer
 </p>
 
 ---
