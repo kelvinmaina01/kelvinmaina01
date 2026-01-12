@@ -1,5 +1,6 @@
+
 <h1 align="center">👋 Hi, I'm Kelvin Gichinga</h1>
-<h1 align="center">Bridging Biology ,Precision Medicine & Artificial Intelligence<h1>
+<h2 align="center">Bridging Biology ,Precision Medicine & Artificial Intelligence<h2>
 <p align="center">
 🎓 BSc. Bioinformatics, Computational Biology & Molecular Biology | JKUAT <br/>
 🔬 Cancer Biology • 🧬 Bioinformatics • 💡 AI in Precision Medicine <br/>
