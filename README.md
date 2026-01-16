@@ -112,7 +112,7 @@
 
 | Phase | Focus | Key Milestone |
 |:------|:------|:--------------|
-| 🧪 **Foundation** | Biology & Molecular Medicine | Cancer research & biomarker discovery |
+| 🧪 **Foundation** | Bioinformatics & Molecular Medicine |computational biomarker discovery |
 | 📊 **Data Awakening** | EDA, Statistics, Python | Learned to see patterns in noise |
 | 🤖 **ML Transition** | Scikit-learn, Predictive Models | Built rule-based → ML pipelines |
 | 🌐 **Full-Stack Builder** | React, APIs, Dashboards | Shipped data products to users |
