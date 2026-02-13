@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## 📊 Data Science • 🤖 Machine Learning • 🌐 Full-Stack Development • 🧬 Precision Medicine
+## 📊 Data Science & 🤖 Machine Learning in 🌐 Full-Stack Development 
 
 **🎓 BSc. Bioinformatics, Computational Biology & Molecular Biology (JKUAT)**
 
