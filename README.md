@@ -10,7 +10,7 @@
 
 ## 📊 Data Science & 🤖 Machine Learning in 🌐 Full-Stack Development 
 
-**🎓 BSc. Bioinformatics, Computational Biology & Molecular Biology (JKUAT)**
+**🎓 BSc. Bioinformatics & Molecular Biology (JKUAT)**
 
 *Building intelligent systems across healthcare AI, autonomous agents, and data platforms*
 
