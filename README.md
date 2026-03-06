@@ -12,7 +12,7 @@
 
 
 
-**🎓 BSc. Bioinformatics & Molecular Biology (JKUAT)**
+**🎓 AM ON A JOURNEY TO BECOME A SENIOR SOFTWARE ENGINEER AND PRODUCT ARCHITECT**
 
 *Building intelligent systems across healthcare AI, autonomous agents, and data platforms*
 
