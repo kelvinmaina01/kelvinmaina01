@@ -8,8 +8,8 @@
 
 <div align="center">
 
-##  🌐 Full-Stack Development  📊 Data Science & 🤖 Machine Learning 
-# (full feature ownwership)
+##  🌐 Full-Stack Development  📊 Data Science & 🤖 Machine Learning (full feature ownwership)
+
 
 
 **🎓 BSc. Bioinformatics & Molecular Biology (JKUAT)**
