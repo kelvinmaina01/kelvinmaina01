@@ -38,23 +38,23 @@
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="270">
 <img src="https://img.shields.io/badge/📥_Raw_Data-Collect%20%26%20Ingest-FF6B6B?style=for-the-badge&labelColor=1a1a1a" alt="Raw Data"/>
 <br/>
 <sub>Messy, unstructured reality</sub>
 </td>
-<td align="center" width="80">
+<td align="center" width="100">
 <img src="https://img.shields.io/badge/➜-38B2AC?style=for-the-badge" alt="arrow"/>
 </td>
-<td align="center" width="200">
+<td align="center" width="270">
 <img src="https://img.shields.io/badge/🔍_Signal_Extraction-Explore%20%26%20Engineer-FFA500?style=for-the-badge&labelColor=1a1a1a" alt="Signal"/>
 <br/>
 <sub>Find meaning in noise</sub>
 </td>
-<td align="center" width="80">
+<td align="center" width="100">
 <img src="https://img.shields.io/badge/➜-38B2AC?style=for-the-badge" alt="arrow"/>
 </td>
-<td align="center" width="200">
+<td align="center" width="270">
 <img src="https://img.shields.io/badge/✅_Pattern_Validation-Test%20%26%20Verify-4CAF50?style=for-the-badge&labelColor=1a1a1a" alt="Validation"/>
 <br/>
 <sub>Rigorous validation</sub>
