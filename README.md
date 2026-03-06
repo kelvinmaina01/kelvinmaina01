@@ -356,7 +356,6 @@
 
 <div align="center">
 
-### 💭 Philosophy
 
 *"I don't force models on problems. I explore data until patterns emerge, validate them rigorously, then build systems that learn and evolve. From biological signals to deployed AI products — I let data communicate for itself."*
 
