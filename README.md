@@ -265,11 +265,8 @@
 
 ### 📊 Contribution Intensity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinmaina01&custom_title=Kelvin's%20Contribution%20Graph&bg_color=0d1117&color=38B2AC&line=38B2AC&point=FF6B6B&area=true&hide_border=true&area_color=38B2AC" alt="Activity Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinmaina01&custom_title=Kelvin's%20Contribution%20Graph&bg_color=0d1117&color=38B2AC&line=38B2AC&point=FF6B6B&area=true&hide_border=true&area_color=38B2AC" alt="Activity Graph" width="100%"/>
 
-### 🔥 Year-Long Contribution Heatmap
-
-<img src="https://ssr-contributions-svg.vercel.app/_/kelvinmaina01?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=53&theme=purple" alt="3D Contribution Chart" width="98%"/>
 
 ### 📅 Productivity Patterns
 
@@ -296,12 +293,12 @@
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="250">
 <img src="https://img.shields.io/badge/🧬-Bioinformatics-blueviolet?style=for-the-badge" alt="Bio"/><br/>
 <b>Cancer Research</b><br/>
 <sub>Built pipelines for biomarker detection</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="250">
 <img src="https://img.shields.io/badge/🤖-ML_Models-success?style=for-the-badge" alt="ML"/><br/>
 <b>Precision Medicine</b><br/>
 <sub>Deployed production ML systems</sub>
@@ -318,12 +315,12 @@
 <b>Algorithm Mastery</b><br/>
 <sub>LeetCode & HackerRank solutions</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="250">
 <img src="https://img.shields.io/badge/🧠-AI_Agents-9cf?style=for-the-badge" alt="Agents"/><br/>
 <b>Healthcare AI</b><br/>
 <sub>Autonomous intelligent systems</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="250">
 <img src="https://img.shields.io/badge/📊-Data_Products-yellowgreen?style=for-the-badge" alt="Data"/><br/>
 <b>Production Ready</b><br/>
 <sub>From notebooks to deployed apps</sub>
@@ -331,7 +328,6 @@
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🏅+Building+Tomorrow's+AI+Systems+Today;🎯+Where+Data+Meets+Intelligence;🚀+Shipping+Impact%2C+Not+Just+Code" alt="Achievement Typing"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" alt="Footer Wave"/>
 
