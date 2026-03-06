@@ -120,28 +120,6 @@
 
 </div>
 
----
-
-## 🚀 Current AI Agent Projects
-
-<div align="center">
-
-### 🧠 **Inua360**
-*AI-powered productivity agents for intelligent workflow automation*
-
-### 🔬 **Labiq**
-*Laboratory intelligence platform with AI-assisted research capabilities*
-
-### 🏥 **Clario**
-*E-healthcare decision support system with diagnostic AI*
-
-### 👁️ **AI Eye Screening MVP**
-*Transition from rule-based to ML-powered diagnostic pipeline*
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 ### 📊 Data Science & Analysis
