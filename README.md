@@ -14,7 +14,7 @@
 
 **🎓 AM ON A JOURNEY TO BECOME A SENIOR SOFTWARE ENGINEER AND PRODUCT ARCHITECT**
 
-*Building intelligent systems across healthcare AI, autonomous agents, and data platforms*
+*Building intelligent systems across healthcare AI,Legal Tech, SME Financing, autonomous agents, and data platforms*
 
 </div>
 
