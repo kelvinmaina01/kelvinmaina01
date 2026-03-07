@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kelvin+Gichinga+%F0%9F%91%8B;Data-Driven+AI+Systems+Builder;From+Biological+Signals+to+Intelligent+Products;I+Let+Data+Speak+for+Itself" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kelvin+Gichinga+%F0%9F%91%8B;Data-Driven+AI+Systems+Builder;From+Data+Signals+to+Intelligent+Products;I+Let+Data+Speak+for+Itself" alt="Typing SVG" />
 
 </div>
 
