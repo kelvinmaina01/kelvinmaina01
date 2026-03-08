@@ -8,7 +8,7 @@
 
 <div align="center">
 
-##  🌐 Full-Stack Development  📊 Data Science & 🤖 Machine Learning (full feature ownwership)
+##  🌐 Full-Stack Development  📊 Data Science & 🤖 Machine Learning Enthusiast(full feature ownwership)
 
 
 
