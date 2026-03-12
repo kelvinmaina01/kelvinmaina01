@@ -8,11 +8,10 @@
 
 <div align="center">
 
-##  🌐 Full-Stack Development  📊 Data Science & 🤖 Machine Learning Enthusiast(full feature ownwership)
+##  🌐 Full-Stack Development  📊 Data Science & 🤖 Machine Learning Enthusiast
 
 
-
-**🎓 AM ON A JOURNEY TO BECOME A SENIOR SOFTWARE ENGINEER AND PRODUCT ARCHITECT**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=%F0%9F%8E%93+AM+ON+A+JOURNEY+TO+BECOME+A+SENIOR+SOFTWARE+ENGINEER+AND+PRODUCT+ARCHITECT" alt="Typing SVG" />Copied!   
 
 *Building intelligent systems across healthcare AI,Legal Tech, SME Financing, autonomous agents, and data platforms*
 
